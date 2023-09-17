@@ -16,7 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=meliketomakinoglu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=meliketomakinoglu&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meliketomakinoglu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
 ### ✍️ Random Dev Quote
